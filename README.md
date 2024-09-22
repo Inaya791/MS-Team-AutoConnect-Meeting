@@ -16,17 +16,16 @@ A Python script to automate joining Microsoft Teams meetings.
 - Used Web Elements (Xpath)
 
 **How to Use this Repo?**
-1.Install chromedriver extension and check its version with Google Chrome browser (Should be compatible)(Starting 8 digit should be same then it only be compatible)
-Chrome Version 129.0.6668.58 (Browser)
-Chromedriver version 129.0.6668.(Chromedriver)
-2-create a new folder and Clone this Repo (https://github.com/Inaya791/MS-Team-AutoConnect-Meeting.git)
-Command: git clone https://github.com/Inaya791/MS-Team-AutoConnect-Meeting.git
-make sure after cloning your chromedriver extension should be within this folder.
-3.Navigate to path cd MS-Team-AutoConnect-Meeting
-4.Install the required python Libraries
-Command: pip install -r requirement.txt
-5.YAY! Finally you to hit the command in your CLI Terminal.
-Command: python app.py
+1. Install chromedriver extension and check its version with Google Chrome browser (Should be compatible)(Starting 8 digit should be same then it only be compatible)
+Chrome Version 129.0.6668.58 (Browser),Chromedriver version 129.0.6668.(Chromedriver)
+2. create a new folder and Clone this Repo (https://github.com/Inaya791/MS-Team-AutoConnect-Meeting.git)
+   Command: git clone https://github.com/Inaya791/MS-Team-AutoConnect-Meeting.git
+   make sure after cloning your chromedriver extension should be within this folder.
+3. Navigate to path cd MS-Team-AutoConnect-Meeting
+4. Install the required python Libraries
+   Command: pip install -r requirement.txt
+5. YAY! Finally you to hit the command in your CLI Terminal.
+   Command: python app.py
 
 **The Challenge Triggered** (https://github.com/Inaya791/MS-Team-AutoConnect-Meeting/commit/5f3d3c3b80e0ee81edcc646aec6341006e12c4bc)
 To handle the default popups from MS Teams Web Application.
